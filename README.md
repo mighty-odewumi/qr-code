@@ -21,7 +21,7 @@ Made a QR Code design based on the Frontend Mentor challenge.
 
 ### Screenshot
 
-![QR Code Component](./images/qr-code-view.png)
+![QR Code Component](./images/qr-code-view1.png)
 
 
 ### Links
