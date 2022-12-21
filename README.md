@@ -15,21 +15,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
-Made a QR Code based on the Frontend Mentor challenge.
+Made a QR Code design based on the Frontend Mentor challenge.
 
 ### Screenshot
 
-![QR Code Component](../webclones/qr-code\images\qr-code-view.png)
+![QR Code Component](./images/qr-code-view.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/mighty-odewumi/qr-code)
+- Live Site URL: [Add live site URL here](https://mighty-odewumi.github.io/qr-code/)
 
 ## My process
 
