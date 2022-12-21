@@ -26,8 +26,8 @@ Made a QR Code design based on the Frontend Mentor challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mighty-odewumi/qr-code)
-- Live Site URL: [Add live site URL here](https://mighty-odewumi.github.io/qr-code/)
+- Solution URL: [QR Code on github](https://github.com/mighty-odewumi/qr-code)
+- Live Site URL: [Live website for QR Code](https://mighty-odewumi.github.io/qr-code/)
 
 ## My process
 
