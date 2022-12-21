@@ -42,7 +42,7 @@ p {
 @media only screen and (min-width: 500px) {
 
     .container {
-        width: 50%;
+        width: 40%;
         margin: 2em auto;
     }
 
@@ -54,7 +54,7 @@ p {
 
 @media only screen and (min-width: 700px) {
     .container {
-        width: 43%;
+        width: 25%;
         margin: 2em auto;
     }
 
@@ -66,8 +66,8 @@ p {
 @media only screen and (min-width: 1024px) {
 
     .container {
-        width: 30%;
-        margin: 10% auto;
+        width: 20%;
+        margin: 2em auto;
 
     }
 
